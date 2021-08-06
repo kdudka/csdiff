@@ -1,1 +1,0 @@
---mode=json --checker CLANG --prune=0 --quiet

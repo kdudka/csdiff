@@ -1,9 +1,0 @@
-{
-    "msg-filter" : [
-        {
-            "checker" : "DIVINE|SYMBIOTIC",
-            "regexp" : "memory",
-            "replace" : "heap"
-        }
-    ]
-}

@@ -1,5 +1,0 @@
-Error: SHELLCHECK_WARNING:
-./network-scripts/ifdown:77:21: note[SC2086]: Double quote to prevent globbing and word splitting.
-
-Error: SHELLCHECK_WARNING:
-./network-scripts/ifdown:77:31: note[SC2086]: Double quote to prevent globbing and word splitting.
